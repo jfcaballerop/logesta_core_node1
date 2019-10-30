@@ -1,0 +1,19 @@
+{
+  "name": "logesta_core_node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcaballerop/logesta_core_node1.git"
+  },
+  "author": "Logesta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfcaballerop/logesta_core_node1/issues"
+  },
+  "homepage": "https://github.com/jfcaballerop/logesta_core_node1#readme"
+}
