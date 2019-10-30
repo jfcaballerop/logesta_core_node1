@@ -57,5 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# Transpiled JavaScript files from Typescript
+/dist
+
+# Cache used by TypeScript's incremental build
+*.tsbuildinfo
+
 # next.js build output
 .next
