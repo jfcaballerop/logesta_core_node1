@@ -10,6 +10,6 @@ export class TestController {
 
   @get('/test')
   test(): string {
-    return 'Test Logesta Nuevo codigo';
+    return 'Test Logesta Nuevo codigo!';
   }
 }
